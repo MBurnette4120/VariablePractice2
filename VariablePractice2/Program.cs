@@ -30,6 +30,8 @@ namespace VariablePractice2
             Console.WriteLine($"I was so {colorName} this morning that I took a {animalName} this afternoon");
             Console.WriteLine($"I wish {bandName} had a {animalName}, as I had a lot of {animalName} to do today");
 
+            //This is all variable practice........
+
         }
     }
 }
